@@ -1,0 +1,2 @@
+# DiscordSecretLogger
+Simple DiscordSecretLogger
