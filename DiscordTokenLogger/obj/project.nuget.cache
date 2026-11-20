@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IaPCuMV7XZk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sjara\\Downloads\\DiscordTokenLogger\\DiscordTokenLogger\\DiscordTokenLogger\\DiscordTokenLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sjara\\.nuget\\packages\\bouncycastle.cryptography\\2.7.0\\bouncycastle.cryptography.2.7.0.nupkg.sha512",
+    "C:\\Users\\sjara\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\sjara\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
